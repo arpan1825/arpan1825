@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi, I'm Arpan Jain 👋
+
+📊 Aspiring Data Analyst
+
+SQL • Power BI • Excel
+
+📈 Turning data into actionable insights
+
+🚀 Building real-world analytics projects
+
+---
+
+## 🚀 Skills
+
+- SQL
+- Power BI
+- Excel
+- Data Visualization
+- Data Cleaning
+
+---
+
+## 📂 Projects
+
+### 🏨 Hotel Revenue Analysis
+Interactive Power BI dashboard analyzing hotel revenue, booking trends, and occupancy performance.
+
+### 🛒 E-Commerce Sales Analysis
+Sales and profit dashboard providing insights into customer behavior and business performance.
+
+---
+
+## 🌱 Currently Focus
+
+- Building Interactive Power BI Dashboards
+- Developing Real-Worls Analytics Projects
+- Improving Business Intelligence & Data Storytelling Skills
+
+---
+
+## 📫 Contact
+
+📧 arpanjain2581@gmail.com
 
 <!--
 **arpan1825/arpan1825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
