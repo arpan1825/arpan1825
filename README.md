@@ -43,6 +43,12 @@ Interactive marketing analytics dashboard analyzing engagement, CTR, conversions
 - Developing Real-Worls Analytics Projects
 - Improving Business Intelligence & Data Storytelling Skills
 
+## 📚 Currently Learning
+- Advanced SQL for Data Analytics
+- Python for Data Analysis (Pandas & NumPy)
+- Interactive Power BI Dashboard Development
+- Business Intelligence & Data Storytelling
+
 ---
 
 ## 📫 Contact
