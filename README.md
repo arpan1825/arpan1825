@@ -28,6 +28,9 @@ Interactive Power BI dashboard analyzing hotel revenue, booking trends, and occu
 ### 🛒 E-Commerce Sales Analysis
 Sales and profit dashboard providing insights into customer behavior and business performance.
 
+### 📊 Meta Ad Performance Dashboard
+Interactive marketing analytics dashboard analyzing engagement, CTR, conversions, audience insights, and campaign performance.
+
 ---
 
 ## 🌱 Currently Focus
