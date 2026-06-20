@@ -17,6 +17,10 @@ SQL • Power BI • Excel
 - Excel
 - Data Visualization
 - Data Cleaning
+- Power Query
+- DAX
+- Pandas
+- Numpy
 
 ---
 
